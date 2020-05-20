@@ -79,7 +79,7 @@ void main() {
       products: <Product>[
         Product(name: '    *   '),
         Product(name: '   ***  '),
-        Product(name: '  ******  '),
+        Product(name: '    *  '),
         Product(name: '   ***  '),
         Product(name: '    *   '),
       ],
