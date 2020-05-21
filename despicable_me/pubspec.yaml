@@ -1,4 +1,4 @@
-name: learningactivity2
+name: despicable_me
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -23,9 +23,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  camera:
-  path:
-  path_provider:
 
 
   # The following adds the Cupertino Icons font to your application.
